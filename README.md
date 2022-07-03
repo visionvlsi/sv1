@@ -33,6 +33,6 @@ The following commands are with full path
 
 ### In case of questasim commands are
 
-vlog top.v
-vsim top_module_name
-run 
+vlog top.v<br/>
+vsim top_module_name<br/>
+run <br/>
