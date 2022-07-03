@@ -13,6 +13,4 @@ module tb;
     $display("Event A2 Trigger");
   end
  
- 
- 
 endmodule
